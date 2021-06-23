@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"path/filepath"
 
-	"github.com/irisida/gobnb/pkg/config"
-	"github.com/irisida/gobnb/pkg/models"
+	"github.com/irisida/goserver/pkg/config"
+	"github.com/irisida/goserver/pkg/models"
 )
 
 // map of functions that can be used in a template

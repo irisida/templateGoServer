@@ -3,9 +3,9 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/irisida/gobnb/pkg/config"
-	"github.com/irisida/gobnb/pkg/models"
-	"github.com/irisida/gobnb/pkg/render"
+	"github.com/irisida/goserver/pkg/config"
+	"github.com/irisida/goserver/pkg/models"
+	"github.com/irisida/goserver/pkg/render"
 )
 
 // Repository type definition
